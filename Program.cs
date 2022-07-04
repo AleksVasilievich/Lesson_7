@@ -16,20 +16,30 @@ for (int i = 0; i < list.Length; i++)
     }
 }
 
-string[] sampleList = new string[count];
+string[] samplingList = new string[count];
 
-void FinalList(string[] list, string[] sampleList)
+void FinalList(string[] list, string[] samplingList)
 {
     int index = 0; 
     for (int i = 0; i < list.Length; i++)
     {
         if(list[i].Length <= sum)
         {
-            sampleList[index] = list[i];
+            samplingList[index] = list[i];
             index++;
         }
     }
 }
 
-FinalList(list,sampleList);
-Console.WriteLine($" sampleList {string.Join(",",sampleList)}");
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]}  ");
+    }
+    Console.WriteLine();
+}
+
+FinalList(list,samplingList);
+PrintArray(samplingList);
+Console.WriteLine($" samplingList {string.Join(", ",samplingList)}");
