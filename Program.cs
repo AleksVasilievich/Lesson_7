@@ -16,3 +16,20 @@ for (int i = 0; i < list.Length; i++)
     }
 }
 
+string[] sampleList = new string[count];
+
+void FinalList(string[] list, string[] sampleList)
+{
+    int index = 0; 
+    for (int i = 0; i < list.Length; i++)
+    {
+        if(list[i].Length <= sum)
+        {
+            sampleList[index] = list[i];
+            index++;
+        }
+    }
+}
+
+FinalList(list,sampleList);
+Console.WriteLine($" sampleList {string.Join(",",sampleList)}");
