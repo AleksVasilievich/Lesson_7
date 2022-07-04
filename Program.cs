@@ -42,4 +42,4 @@ void PrintArray(string[] array)
 
 FinalList(list,samplingList);
 PrintArray(samplingList);
-Console.WriteLine($" samplingList {string.Join(", ",samplingList)}");
+//Console.WriteLine($" samplingList {string.Join(", ",samplingList)}");
