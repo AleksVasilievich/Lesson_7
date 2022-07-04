@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Final Test Work\Test Work\bin\Debug\net6.0\Test Work.exe
+C:\Users\Александр\Desktop\Final Test Work\Test Work\bin\Debug\net6.0\Test Work.deps.json
+C:\Users\Александр\Desktop\Final Test Work\Test Work\bin\Debug\net6.0\Test Work.runtimeconfig.json
+C:\Users\Александр\Desktop\Final Test Work\Test Work\bin\Debug\net6.0\Test Work.dll
+C:\Users\Александр\Desktop\Final Test Work\Test Work\bin\Debug\net6.0\Test Work.pdb
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\Test Work.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\Test Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\Test Work.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\Test Work.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\Test Work.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\Test Work.dll
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\refint\Test Work.dll
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\Test Work.pdb
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\Test Work.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Final Test Work\Test Work\obj\Debug\net6.0\ref\Test Work.dll
